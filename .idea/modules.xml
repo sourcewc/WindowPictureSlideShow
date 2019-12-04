@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CopyWindowsPicture.iml" filepath="$PROJECT_DIR$/CopyWindowsPicture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowPictureSlideShow.iml" filepath="$PROJECT_DIR$/WindowPictureSlideShow.iml" />
     </modules>
   </component>
 </project>
